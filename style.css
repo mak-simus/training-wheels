@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+}
+.Posterr{
+    border: 5px solid white;
+    margin-left: -5%;
+}
+h1{
+    margin-left: 14%;
+} 
+.pop{
+    margin-top: 23%;
+}
+p{
+    margin-left: 10%;
+}
